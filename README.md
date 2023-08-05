@@ -16,7 +16,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Author](#author)
 
 ## Overview
-    This project is an example of a Product preview card component
+  This project is an example of a Product preview card component
 
 ### The challenge
 
@@ -26,9 +26,14 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
-
-![Desktop](./design/desktop-solution.png)
-![mobile](./design/mobile-solution.png)
+<div align="center">
+    
+  ![Desktop](./design/desktop-solution.png)
+  <br /><br /><br />
+  ![mobile](./design/mobile-solution.png)
+  <br /><br /><br />
+  
+</div>
 
 ### Links
 
