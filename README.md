@@ -16,7 +16,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Author](#author)
 
 ## Overview
-    Thisproject is an example of a Product preview card component
+    This project is an example of a Product preview card component
 
 ### The challenge
 
@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](.design/desktop-solution.png)
-![mobile](.design/mobile-solution.png)
+![Desktop](./design/desktop-solution.png)
+![mobile](./design/mobile-solution.png)
 
 ### Links
 
