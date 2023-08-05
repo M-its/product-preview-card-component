@@ -26,9 +26,14 @@ Users should be able to:
 -   See hover and focus states for interactive elements
 
 ### Screenshot
-
-![Desktop](.design/desktop-solution.png)
-![mobile](.design/mobile-solution.png)
+<div align="center">
+    
+  ![Desktop](./design/desktop-solution.png)
+  <br /><br /><br />
+  ![mobile](./design/mobile-solution.png)
+  <br /><br /><br />
+  
+</div>
 
 ### Links
 
